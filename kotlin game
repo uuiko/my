@@ -15,7 +15,6 @@ fun main() {
             println("Пожалуйста, введите число от 1 до 1000")
             continue
         }
-
         attempts++
 
         when {
