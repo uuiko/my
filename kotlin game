@@ -9,6 +9,7 @@ fun main()
 
 
 
+
     while (true) {
         print("Введите вашу догадку: ")
         val guess = readLine()?.toIntOrNull()
