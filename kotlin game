@@ -16,7 +16,7 @@ fun main()
             continue
         }
         attempts++
-...............
+...............wefqwfewqef
 
         when {
             guess == randomNumber -> {
