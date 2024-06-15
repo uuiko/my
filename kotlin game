@@ -6,7 +6,7 @@ fun main()
 .....
     println("Добро пожаловать в игру 'Угадай  число'")
     println("Я загадал число от 1 до 100. Попробуйте угадать")
-0.
+
     while (true) {
         print("Введите вашу догадку: ")
         val guess = readLine()?.toIntOrNull()
