@@ -3,7 +3,7 @@ import kotlin.random.Random
 fun main() 
     val randomNumber = Random.nextInt(1, 101)
     var attempts = 0
-.
+.121212123+
     println("Добро пожаловать в игру 'Угадай  число'")
     println("Я загадал число от 1 до 100. Попробуйте угадать")
 
